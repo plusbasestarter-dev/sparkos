@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import "./globals.css";
 export const metadata: Metadata = {
   title: "Spark OS — Fikrinden bir sonraki adıma",
   description: "Fikirlerini yakala, küçük deneylere dönüştür ve her gün bir şey öğren.",
