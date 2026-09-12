@@ -4,5 +4,6 @@ Spark OS GitHub repository.
 
 - Stable/default branch: `main`
 - Active MVP import/development branch: `import/mvp`
+- Current web preview: clean core-flow rebuild
 
-The repository is now connected to the Spark OS project and will be used as the source-control target for ongoing development.
+The repository is connected to the Spark OS project and is used as the source-control target for ongoing development.
