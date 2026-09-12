@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>Spark OS</h1><p>Fikirlerini yakala, deneye dönüştür, öğren.</p></main>;}
